@@ -1071,6 +1071,11 @@ video {
   --tw-shadow: var(--tw-shadow-colored);
 }
 
+.shadow-btn\/60 {
+  --tw-shadow-color: rgb(34 220 190 / 0.6);
+  --tw-shadow: var(--tw-shadow-colored);
+}
+
 .transition-all {
   transition-property: all;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
